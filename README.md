@@ -1,0 +1,2 @@
+# somtec
+My blog
